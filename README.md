@@ -1,4 +1,6 @@
-# Notes
+## New laravel application
+
+composer create-project laravel/laravel name-of-app
 
 ## Run dev server
 
