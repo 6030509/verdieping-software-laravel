@@ -1,6 +1,6 @@
 ## New laravel application
 
-composer create-project laravel/laravel name-of-app
+composer create-project laravel/laravel:^10.0 name-of-app
 
 ## Run dev server
 
